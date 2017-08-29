@@ -1,31 +1,32 @@
 
 
 
-#**Wright Balance Level 1 – 5 Certification**  
+**Wright Balance Level 1 – 5 Certification** 
 
-#95% Hands-on Training
+**95% Hands-on Training**
 
-#**Date**:  October 1 – 2, 2017 (Sunday – Monday)
+**Date:  October 1 – 2, 2017 (Sunday – Monday)**
 
-#**Location**:  
-#Taylor Farms Center for Learning 
-#1551 Beacon Hill Drive
-#Salinas, CA 93905
+ **Location**:  
+ **Taylor Farms Center for Learning** 
+ **1551 Beacon Hill Drive**
+ **Salinas, CA 93905**  
+ 
  **35 Minutes from Monterey, CA**
 
 
-#**Costs:  $295**
+**Costs:  $295**
 
-#“Creating Core Symmetry at Setup for Maximum Application of Force”
+ ***Creating Core Symmetry at Setup for Maximum Application of Force*** 
 
-#**14** MSR for **PGA** & **8** for **LPGA**
+**14** MSR for **PGA** & **8** for **LPGA**
 
 
-#**Click here to Register:**
+**To Register, Click here or Copy and paste this link in your browser**
 
-#https://squareup.com/store/wright-balance-fitters/item/the-application-of-force
+https://squareup.com/store/wright-balance-fitters/item/the-application-of-force
 
-#Why attend the Wright Balance Certification Seminar?  
+**Why attend the Wright Balance Certification Seminar?**  
 
 •	Have you ever wondered why some students have a different setup position from their peers but play at a high level?  For example, note the difference in the shaft lean of these elite players at address...
 
@@ -50,7 +51,7 @@
 
 **Click on this link to view an EBook on the history of Wright Balance’s research and Golf Swings by Core Region.**  
 
-#http://online.fliphtml5.com/azhq/tazi/#p=1 
+http://online.fliphtml5.com/azhq/tazi/#p=1 
  
  
 The Wright Balance two day certification seminar will provide you with the answers to these question and show you the following:
