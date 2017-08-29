@@ -32,12 +32,11 @@ https://squareup.com/store/wright-balance-fitters/item/the-application-of-force
 
 ![enter image description here](http://i.imgur.com/MdYVmKf.jpg)
 
-
-•	...or the differences in these elite players at the top of their swings...
+•	...or the differences in the plane of the shoulders or right arm position in these elite players at the top of their swings...
 
 ![enter image description here](http://i.imgur.com/qa22rAC.jpg)
 
-•	... or in the downswing shaft plane...
+•	... or in the downswing shaft plane as it crosses the players Dominant Core Region...
 
 ![enter image description here](http://i.imgur.com/872UINZ.jpg) 
 
