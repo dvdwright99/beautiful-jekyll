@@ -3,6 +3,8 @@
 
 **Wright Balance Level 1 – 5 Certification** 
 
+**David F. Wright, Ph.D., PGA**
+
 **95% Hands-on Training**
 
 **Date:  October 1 – 2, 2017 (Sunday – Monday)**
@@ -51,8 +53,7 @@ https://squareup.com/store/wright-balance-fitters/item/the-application-of-force
 **Click on this link to view an EBook on the history of Wright Balance’s research and Golf Swings by Core Region.**  
 
 http://online.fliphtml5.com/azhq/tazi/#p=1 
- 
- 
+  
 The Wright Balance two day certification seminar will provide you with the answers to these question and show you the following:
 
 1.     How to match the appropriate setup (Stance Width, Grip & Posture) to your students using individual biometrics  
