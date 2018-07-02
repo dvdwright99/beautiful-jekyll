@@ -180,7 +180,11 @@ The Results are immediately emailed to you.  Note: This illustration presents th
  
 ![enter image description here](http://i.imgur.com/vhvRfda.jpg)
 
-**Use  only the first 3 Stance Widths as circled in the example below for each Core Region to Map the Core.**   The most recent version of the results shows the first 3 stance widths in each Core Region in **Bold Type**.  You will also note that the Lower Core Results appear first.
+**Use  only the first 3 Stance Widths as circled in the example below for each Core Region to Map the Core.**   The most recent version of the
+|  |  |
+|--|--|
+|  |  |
+ results shows the first 3 stance widths in each Core Region in **Bold Type**.  You will also note that the Lower Core Results appear first.
 
 
  
@@ -960,6 +964,6 @@ Suggest that they do this drill daily for 5 minutes.  Tell them when they have t
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTI5OTUzMCwtMTYyNjc0NDQ5MywyMT
-Q0MTU1MzQyXX0=
+eyJoaXN0b3J5IjpbMTM0MjA2OTIwOCwtNjAxMjk5NTMwLC0xNj
+I2NzQ0NDkzLDIxNDQxNTUzNDJdfQ==
 -->
