@@ -146,7 +146,7 @@ Your student's name will appear next to their email address after you click on "
 
 If your student's name or email address does not appear at the top of your client list, use the "Search Email" icon to type in your student's email and it will appear at the top.
 
-**Note: To do their Stance Widths, click on the Green Icon next to their email address** In order to do Grip Size Measurements, you will need to complete a higer Certification Level 2.
+**Note: To do their Stance Widths, click on the Green Icon next to their email address** In order to do Grip Size Measurements, you will need to complete a higher Certification Level.
 
  ![enter image description here](http://i.imgur.com/wIELCrX.jpg)
 
@@ -960,6 +960,6 @@ Suggest that they do this drill daily for 5 minutes.  Tell them when they have t
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzgzODc3MTIsLTE2MjY3NDQ0OTMsMj
-E0NDE1NTM0Ml19
+eyJoaXN0b3J5IjpbLTYwMTI5OTUzMCwtMTYyNjc0NDQ5MywyMT
+Q0MTU1MzQyXX0=
 -->
