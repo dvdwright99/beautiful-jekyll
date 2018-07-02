@@ -142,6 +142,9 @@ Then click on "Add Customer" as shown in this illustration.  Type in your studen
 
  ![enter image description here](http://i.imgur.com/M3YkCSz.jpg)
 
+If your students name
+
+
 Your students name will appear next to their email address after you click on "Add Customer" on the right side of the illustration only if they have completed their profile.  They will need to complete their profile ***before*** you can do the measurements.
 
 **Note: To do their Stance Widths, click on the Green Icon next to their email address** In order to do Grip Size Measurements, you will need to complete Certification Level 2.
@@ -958,5 +961,5 @@ Suggest that they do this drill daily for 5 minutes.  Tell them when they have t
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDE1NTM0Ml19
+eyJoaXN0b3J5IjpbLTE2MjY3NDQ0OTMsMjE0NDE1NTM0Ml19
 -->
